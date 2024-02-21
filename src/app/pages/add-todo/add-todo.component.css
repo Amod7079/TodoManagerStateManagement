@@ -1,0 +1,11 @@
+.container
+{
+    background: #e4b2b2;
+}
+.btndiv
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+}
